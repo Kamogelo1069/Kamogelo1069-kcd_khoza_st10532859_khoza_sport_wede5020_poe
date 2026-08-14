@@ -22,10 +22,12 @@ Khoza Sport is a company founded in 2018 by ex-athletic trainer Kamo Khoza in Jo
 •	KPI 1: 35 average sales/inquiry form submissions per month (on a 3-month period commencing launch) – achieved.
 •	KPI 2: 1,500 average monthly overall traffic (organic unique visitors) is the target to be delivered within 6 months from launch of Sales and Marketing website.
 •	KPI 3: Keeping average mobile site page load speed under 3,0 seconds to avoid high bounce rate.
+## Side map
+<img width="905" height="383" alt="image" src="https://github.com/user-attachments/assets/6e3d1f76-abe6-4011-9f4a-0de95ca4e532" />
 
 ## Timeline and Milestones 
-Organisation and proposal approved	05/08/2026
-Sitemap and folder structure finalised	10/08/2026
+Organization and proposal approved	05/08/2026
+Sitemap and folder structure finalized	10/08/2026
 HTML pages built and content integrated	12/08/2026
 GitHub repository finalized, Part 1 submitted	13/08/2026
 Part 2 submitted	17/09/2026
