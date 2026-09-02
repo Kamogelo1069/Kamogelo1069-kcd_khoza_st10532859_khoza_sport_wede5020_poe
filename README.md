@@ -42,15 +42,15 @@ Khoza Sport is a company founded in 2018 by ex-athletic trainer Kamo Khoza in Jo
 | Feature | Describe
 ## Timeline and Milestones
 
-*show how 
-
 |---|---|---|
-| Organization and proposal approved |	05/08/2026 |
-| Sitemap and folder structure finalized |	10/08/2026 |
-| HTML pages built and content integrated |	12/08/2026 |
-| GitHub repository finalized, Part 1 submitted |	13/08/2026 |
-| Part 2 submitted |	17/09/2026 |
-| Part 3 submitted |	30/10/2026 |
+| Organization and proposal approved |	05/08/2026 | Complete |
+| Sitemap and folder structure finalized |	10/08/2026 | Complete |
+| HTML pages built and content integrated |	12/08/2026 | Ongoing |
+| GitHub repository finalized, Part 1 submitted |	13/08/2026 | Planned |
+| Part 2 submitting |	17/09/2026 | Planned |
+| Part 3 submitting |	30/10/2026 | Planned |
+
+---
 
 ## References
 •	Domains.co.za. 2.026. CO.ZA Domain Name Registration South Africa. [online] Available at: [https://www.domains.co.za](https://www.domains.co.za) [Accessed 4 August 2026].
