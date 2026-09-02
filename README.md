@@ -22,6 +22,8 @@
 | Lecture | Deogratias Phiri |
 
 ## Project Overview
+*Over the past 8 years, the company has expanded its sales network across Johannesburg, supplying local sports teams with equipment. The company registered significant success with its products and began to sell its merchandise in local sports centres. Khoza sport now intends to take advantage of the high demand for its products and launch an online platform to sell its sporting equipment. 
+
 ## Brief History 
 Khoza Sport is a company founded in 2018 by ex-athletic trainer Kamo Khoza in Johannesburg, South Africa. Initially, the business was launched as a retail shop selling sporting goods, including soccer boots and clothing. Over the past 8 years, the company has expanded its sales network across Johannesburg, supplying local sports teams with equipment. The company registered significant success with its products and began to sell its merchandise in local sports centres. Khoza sport now intends to take advantage of the high demand for its products and launch an online platform to sell its sporting equipment. 
 
