@@ -33,7 +33,7 @@ GitHub repository finalized, Part 1 submitted	13/08/2026
 Part 2 submitted	17/09/2026
 Part 3 submitted	30/10/2026
 
-## Referances
+## References
 •	Domains.co.za. 2.026. CO.ZA Domain Name Registration South Africa. [online] Available at: [https://www.domains.co.za](https://www.domains.co.za) [Accessed 4 August 2026].
 •	Hostinger South Africa. 2026. Web Hosting South Africa - Fast & Reliable. [online] Available at: [https://www.hostinger.co.za](https://www.hostinger.co.za) [Accessed 4 August 2026].
 •	Pexels/ https://images.pexels.com/photos/13527460/pexels-photo-13527460.jpeg
