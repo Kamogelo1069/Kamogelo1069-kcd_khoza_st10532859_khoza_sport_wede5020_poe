@@ -1,13 +1,25 @@
 # Kamogelo1069-kcd_khoza_st10532859_khoza_sport_wede5020_poe
 
-# Project Title: 
+---
+
+## Project Title: KHOZASPORT
+
+**My  Project**
+-My Project is a website I am using to supply sport elements for athlete-
+
+---
 
 ## Student Information
-Student Number: ST10532859
-Student Full Name: Kamogelo Cyprian Khoza
-Group: Year1 Group 4
-Module: Web Development (Introduction)
-Module Code: WEDE5020
+|---|---|
+| Field | Detail |
+|---|---|
+|Student Number| ST10532859|
+|Student Full Name| Kamogelo Cyprian Khoza|
+|Group| Year1 Group 4|
+|Module| Web Development (Introduction)|
+|Module Code| WEDE5020|
+| Group | Year 01 Group 4 |
+| Lecture | Deogratias Phiri |
 
 ## Project Overview
 ## Brief History 
