@@ -58,3 +58,5 @@ Khoza Sport is a company founded in 2018 by ex-athletic trainer Kamo Khoza in Jo
 •	Domains.co.za. 2.026. CO.ZA Domain Name Registration South Africa. [online] Available at: [https://www.domains.co.za](https://www.domains.co.za) [Accessed 4 August 2026].
 •	Hostinger South Africa. 2026. Web Hosting South Africa - Fast & Reliable. [online] Available at: [https://www.hostinger.co.za](https://www.hostinger.co.za) [Accessed 4 August 2026].
 •	Pexels/ https://images.pexels.com/photos/13527460/pexels-photo-13527460.jpeg
+
+W3Schools
