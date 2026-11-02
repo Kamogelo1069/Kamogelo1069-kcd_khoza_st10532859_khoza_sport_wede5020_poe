@@ -3,15 +3,19 @@
 
 <head>
     <title>Home</title>
+    <meta name="viewsport" content="width=device-width " , initial-scale="1.0">
+
+    <link rel="stylesheet" href="./css/style.css">
+
 </head>
 
-<body bgcolor="lightblue">
+<body>
     <header>
 
         <!--iHeader imele iSection engaphezulu kwi'website, kune logo nama nevigation links eskhathini esiningi  -->
         <div> <!-- div is 'n divider used to seperate sections of the html content -->
 
-            <img src="images/KS.png" width="150">
+            <img src="images/KS.png" width="80">
         </div>
 
         <nav>
@@ -20,12 +24,12 @@
                 <!-- ul refers to an unordered list -->
                 <li>
                     <!-- li refers to list item, which is single item in our list -->
-                    <a href="index.html">Home</a>
+                    <a href="index.html">Home |</a>
                     <!-- a umele iAnchor tag, this represent a link in your website, links can be used to navigate  around your website, moving from one web page to another.You van also use it to navigate to external webpages -->
-                    <a href="about_us.html">about us</a>
-                    <a href="product.html">Our Products</a>
-                    <a href="contact.html">Contact Us</a>
-                    <a href="enquiry.html">Enquirie</a>
+                    <a href="about_us.html">about us|</a>
+                    <a href="product.html">Our Products|</a>
+                    <a href="contact.html">Contact Us|</a>
+                    <a href="enquiry.html">Enquirie|</a>
                 </li>
             </ul>
         </nav>
@@ -36,16 +40,17 @@
         <!-- main is used to nplace the main content of the webpage -->
     </main>
     <h1>
-        <font color="blue">Welcome to the best athletic store!!</font>
+        <!-- <font color="blue">Welcome to the best athletic store!!</font> -->
     </h1>
     <section class="hero">
-        <div class="hero-content">
+        <div id="hero-section">
             <h1>Gear Up for Victory!!</h1>
             <p>Premium sports gear for champions, athletes, and fitness enthusiasts.</p>
+
             <a href="product.html" class="btn">Shop Products</a>
         </div>
     </section>
-    <section id="hero-setion">
+    <section id="hero-content">
         <!-- Section is a tag used to seperate the content in your main page -->
 
 
@@ -61,14 +66,12 @@
 
             <div class="product-card">
                 <h4>Tennis Racquets Set</h4>
-                <img src="https://images.pexels.com/photos/35024356/pexels-photo-35024356.jpeg" width="300" height="300"
-                    alt="Tennis Gear">
+                <img src="images/tennis.avif" width="300" height="300" alt="Tennis Gear">
             </div>
 
             <div class="product-card">
                 <h4>Match Rugby Balls</h4>
-                <img src="https://images.pexels.com/photos/13527460/pexels-photo-13527460.jpeg" width="200" height="400"
-                    alt="Rugby Balls">
+                <img src="images/Rugby.avif" width="200" height="400" alt="Rugby Balls">
             </div>
             <div class="product-card">
                 <h4>Football balls</h4>
@@ -76,10 +79,10 @@
             </div>
         </div>
     </section>
-    <section id="brief info">
-        <h2>My project Summary</h2>
+    <section id="brief-info">
+        <h2>More from Khoza Sport</h2>
         <div class="summary-content">
-            <img src="" alt="image showing website logo" />
+            <img src="images/KS.png" alt="image showing website logo" width="80" />
             <p>Fuel your inner champion with Khoza Sport. We bring you high-quality equipment engineered for speed,
                 strength, and victory. From tennis courts to rugby grounds, get ready to train harder, play stronger,
                 and take your performance to the next level.</p>
@@ -94,6 +97,8 @@
         <p>st10532859</p>
 
     </footer>
+        <script src="js/script.js"></script>
+
 </body>
 
 </html>
