@@ -1,9 +1,9 @@
-/* 
+/* ==========================================================================
    KHOZA SPORT - MAIN JASCRIPT (js/main.js)
    - Product Filtering / Search Functionality
    - Image Lightbox Modal
    - Dynamic Form Handling & Client-Side Validation
-  */
+   ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
     
