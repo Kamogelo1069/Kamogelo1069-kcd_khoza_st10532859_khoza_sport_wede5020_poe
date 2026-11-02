@@ -1,4 +1,3 @@
-# Kamogelo1069-kcd_khoza_st10532859_khoza_sport_wede5020_poe
 
 ---
 
@@ -52,11 +51,20 @@ Khoza Sport is a company founded in 2018 by ex-athletic trainer Kamo Khoza in Jo
 | Part 2 submitting |	18/09/2026 | Complete |
 | Part 3 submitting |	02/11/2026 | Planned |
 
+## ChangeLog
+<img width="1340" height="698" alt="Gemini_Generated_Image_godezygodezygode_edited_edited" src="https://github.com/user-attachments/assets/3e3d3b96-4211-4543-82ae-c5e05635b8c2" />
+
 ---
 
 ## References
 •	Domains.co.za. 2.026. CO.ZA Domain Name Registration South Africa. [online] Available at: [https://www.domains.co.za](https://www.domains.co.za) [Accessed 4 August 2026].
 •	Hostinger South Africa. 2026. Web Hosting South Africa - Fast & Reliable. [online] Available at: [https://www.hostinger.co.za](https://www.hostinger.co.za) [Accessed 4 August 2026].
 •	Pexels/ https://images.pexels.com/photos/13527460/pexels-photo-13527460.jpeg
-
 W3Schools
+* Google Maps. 2026. Rosebank Mall Location Embed. Available at: https://www.google.com/maps (Accessed: November 2026).
+
+* MDN Web Docs. 2026. HTML Living Standard: IFrame Embed Element & DOM Manipulation. Mozilla Developer Network. Available at: https://developer.mozilla.org (Accessed: October 2026).
+
+* W3Schools. 2026. HTML & CSS Reference, Flexbox, and CSS Grid Layouts. Refsnes Data. Available at: https://www.w3schools.com (Accessed: September 2026).
+
+* GitHub. 2026. Hosting Static Websites with GitHub Pages. GitHub Documentation. Available at: https://docs.github.com (Accessed: October 2026).
