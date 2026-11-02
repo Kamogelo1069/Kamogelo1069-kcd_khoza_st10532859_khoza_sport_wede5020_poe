@@ -1,65 +1,85 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Our contact</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Khoza Sport</title>
+    <meta name="description" content="Get in touch with Khoza Sport for general inquiries, customer support, and sports gear assistance. Find our location on the map.">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
-
 <body>
     <header>
-    
-        <body>
-    <body bgcolor="lightblue">
-    <header>
-
-        <!--iHeader imele iSection engaphezulu kwi'website, kune logo nama nevigation links eskhathini esiningi  -->
-        <div> <!-- div is 'n divider used to seperate sections of the html content -->
-
-            <img src="images/KS.png" width="150">
+        <div class="logo-container">
+            <img src="images/KS.png" alt="Khoza Sport Logo" width="80">
         </div>
-
         <nav>
-            <!-- nav contains the navigation links for your website -->
             <ul>
-                <!-- ul refers to an unordered list -->
-                <li>
-                    <!-- li refers to list item, which is single item in our list -->
-                    <a href="index.html">Home</a>
-                    <!-- a umele iAnchor tag, this represent a link in your website, links can be used to navigate  around your website, moving from one web page to another.You van also use it to navigate to external webpages -->
-                    <a href="about_us.html">about us</a>
-                    <a href="product.html">Our Products</a>
-                    <a href="contact.html">Contact Us</a>
-                    <a href="enquiry.html">Enquirie</a>
-                </li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about_us.html">About Us</a></li>
+                <li><a href="product.html">Our Products</a></li>
+                <li><a href="contact.html" class="active">Contact Us</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
             </ul>
         </nav>
-
     </header>
-    <main></main>
-    <main>
-        <!-- main is used to nplace the main content of the webpage -->
+
+    <main class="contact-section">
+        <h2>Contact Khoza Sport</h2>
+        <p class="section-intro">Have questions about our sports equipment or need support? Reach out to us using the form below or visit our location.</p>
+
+        <!-- Contact Form -->
+        <form id="contact-form" action="mailto:khozakamogelo95@gmail.com" method="post" class="form-container">
+            <div class="form-group">
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="name" required placeholder="Enter your full name">
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required placeholder="name@example.com">
+            </div>
+
+            <div class="form-group">
+                <label for="message-type">Type of Message:</label>
+                <select id="message-type" name="message-type">
+                    <option value="general">General Support</option>
+                    <option value="feedback">Feedback</option>
+                    <option value="complaint">Complaint</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="5" required placeholder="Type your message here..."></textarea>
+            </div>
+
+            <button type="submit" class="btn">Send Message</button>
+            <div id="form-response"></div>
+        </form>
+
+        <!-- Interactive Map Section -->
+       <!-- Interactive Map Section -->
+        <section class="map-wrapper">
+            <h3>Find Us Here</h3>
+            <div id="map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3581.5588405182666!2d28.039222975588693!3d-26.14592347711261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e950c8d37b50aaf%3A0x14ea91e5828c79e9!2sRosebank%20Mall!5e0!3m2!1sen!2sza!4v1793624046085!5m2!1sen!2sza" 
+                    width="600" 
+                    height="450" 
+                    style="border:0;" 
+                    allowfullscreen="" 
+                    loading="lazy" 
+                    referrerpolicy="strict-origin-when-cross-origin">
+                </iframe>
+            </div>
+        </section>
     </main>
-    <h1>
-        <font color="blue">Welcome to the best athletic store!!</font>
-    </h1>
-    <section class="hero">
-        <div class="hero-content">
-            <h1>Gear Up for Victory!!</h1>
-            <p>Premium sports gear for champions, athletes, and fitness enthusiasts.</p>
-            <a href="product.html" class="btn">Shop Products</a>
-        </div>
-    </section>
-    <section id="hero-setion">
-        <!-- Section is a tag used to seperate the content in your main page -->
 
-
-        <h2>Take your game to the next level, with our high quality products</h2>
-  <footer>
-        <!-- the footer the bottom of the webpage, it holds links and websites information like termms and conditions, polices, contact information, and copyright-->
-        <p>contact email: khozakamogelo95@gmail.com</p>
-        <p>Tel:0729812985</p>
-        <p>st10532859</p>
-
+    <footer>
+        <p>Contact email: khozakamogelo95@gmail.com</p>
+        <p>Tel: 0729812985</p>
+        <p>Student ID: st10532859</p>
     </footer>
-</body>
 
+    <script src="js/script.js"></script>
+</body>
 </html>
