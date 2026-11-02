@@ -50,7 +50,7 @@ Khoza Sport is a company founded in 2018 by ex-athletic trainer Kamo Khoza in Jo
 | GitHub repository finalized, Part 1 submitted |	13/08/2026 | Planned |
 | Adding external CSS styling and mobile responsiveness | 10/09/2026 | Complete |
 | Part 2 submitting |	18/09/2026 | Complete |
-| Part 3 submitting |	30/10/2026 | Planned |
+| Part 3 submitting |	02/11/2026 | Planned |
 
 ---
 
